@@ -2,21 +2,33 @@
 
 
 ## Currently Reading
-|Elixir in Action|Jurić|
-|Unit Testing. Principles, Practices and Patterns|Khorikov|
-|Apprentenceship Patterns|Hoover, Oshineye|
-|Implementing Domain Driven Design|Vernon|
+
+| Title | Author(s) |
+| ------- | ----- |
+| Elixir in Action | Jurić |
+| Unit Testing. Principles, Practices and Patterns | Khorikov |
+| Apprentenceship Patterns | Hoover, Oshineye |
+| Implementing Domain Driven Design | Vernon |
 
 ## Already bought, but unread
+
+|Title|Author(s)|
+|-------|-----|
 |Patterns of Enterprise Application Architecture|Fowler|
 |DevOps Handbook|Kim, Humble, Debois, Willis|
+|React|Springer|
+
 
 ## On my Wishlist
+|Title|Author(s)|
+|-------|-----|
 |Design Patterns|Gamma, Helm, Johnson, Vlissides|
 |Pragmatic Programmer|Hunt|
 
 ## Finished
+
 |Title|Author|The year I read it|
+|-----|------|-----|
 |PHP Grundlagen und Lösungen|Krause|2000|
 |Die Macht der Computer und die Ohnmacht der Vernunft|Weizenbaum|2005|
 |Code Complete|McConnell|2009|
@@ -38,7 +50,6 @@
 |Clean Architecture|Martin|2018|
 |Kafka Streams in Action|Bejeck|2019|
 |Doman Driven Design Distilled|Vernon|2019|
-|React|Springer|2019|
 |Get your Hands Dirty On Clean Architecture|Hombergs|2019|
 |OAuth 2 in Action|Sanso, Richer|2019|
 |Working Effectively with Legacy Code|Feathers|2019|
